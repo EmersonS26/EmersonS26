@@ -1,8 +1,9 @@
 ### Olá! Eu me chamo Emerson Santana 👋
 
-- 🌱 Atualmente estou cursando Técnico em informática para Internet ... 
+- ⚡ Graduando: Tecnologia em Segurança da Informação
+- 🌱 Técnico em informática para Internet ... 
 - 📫 Como me contatar: emersondirectx@gmail.com
-- ⚡ Curiosidade: Admirador de Segurança da Informação
+
 
 <div style="display: inline_block"><br>
   

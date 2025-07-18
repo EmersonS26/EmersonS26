@@ -1,6 +1,6 @@
 ### Olá! Eu me chamo Emerson Santana 👋
 
-- ⚡Cursando Graduação: Tecnologia em Segurança da Informação
+- ⚡Cursando Graduação: Tecnologia em Segurança Cibernética
 - 🌱 Técnico em informática para Internet ... 
 - 📫 Como me contatar: emersondirectx@gmail.com
 

@@ -1,8 +1,12 @@
-### Olá! Eu me chamo Emerson Santana 👋
+### Olá! Eu me chamo Emerson Santana 👋 
+🚀 Bem vindo ao meu perfil no Github!
 
+- 💻 SRE Intern
 - ⚡Cursando Graduação: Tecnologia em Segurança Cibernética
-- 🌱 Técnico em informática para Internet ... 
+- 🌱 Técnico em informática para Internet
+- 🔬🐞 Entusiasta de Qualidade de Software (QA) nas horas vagas
 - 📫 Como me contatar: emersondirectx@gmail.com
+
 
 
 <div style="display: inline_block"><br>
